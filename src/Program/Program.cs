@@ -10,6 +10,7 @@ namespace PII_Game_Of_Life
                 //Invocar método para calcular siguiente generación
                 //=================================================
                 Thread.Sleep(300);
+                Console.WriteLine("jaja")
         }
     }
 }
